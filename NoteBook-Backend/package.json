@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "notebook-backend",
+  "main": "server.cjs",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Anthony Rozario",
+  "license": "ISC"
+}
